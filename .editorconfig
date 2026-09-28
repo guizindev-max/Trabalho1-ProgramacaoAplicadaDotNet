@@ -1,3 +1,4 @@
+# Padronização dos arquivos da solução .NET 9.0.
 root = true
 
 [*]
