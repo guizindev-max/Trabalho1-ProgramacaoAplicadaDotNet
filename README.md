@@ -3,7 +3,7 @@
 UNIP - Análise e Desenvolvimento de Sistemas  
 Professor: Me. Lucas Teodoro dos Santos
 
-Três aplicações Console em C# e .NET 8, uma para cada questão do trabalho.
+Três aplicações Console em C# e .NET 9.0 (`net9.0`), uma para cada questão do trabalho.
 
 ## Estrutura
 
@@ -17,7 +17,7 @@ Trabalho1-ProgramacaoAplicadaDotNet/
 
 ## Executar
 
-É necessário ter o SDK do .NET 8 ou um SDK posterior compatível e o runtime do .NET 8 instalados. Os projetos não dependem de pacotes NuGet externos.
+É necessário instalar o [SDK do .NET 9.0](https://dotnet.microsoft.com/download/dotnet/9.0), que já inclui o runtime do .NET 9.0. O arquivo `global.json` seleciona um SDK estável da versão 9.0 instalado na máquina. Os projetos não dependem de pacotes NuGet externos.
 
 Na pasta do repositório:
 
